@@ -128,6 +128,8 @@ Predicted Label: Viral Pneumonia
 
 🔸 Visual Output:
 The image is displayed along with the actual label and the predicted label by the model. This provides an intuitive way to evaluate the model's performance visually and qualitatively.
+
+
 ![image](https://github.com/user-attachments/assets/74d96bab-746d-45fb-83fb-46ad48d330cc)
 
 
